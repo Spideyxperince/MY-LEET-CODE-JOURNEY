@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0009-palindrome-number) |
+| [1492-the-kth-factor-of-n](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/1492-the-kth-factor-of-n) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0074-search-a-2d-matrix) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
