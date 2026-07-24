@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0509-fibonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/1492-the-kth-factor-of-n) |
 ## Binary Search
 |  |
@@ -29,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/1492-the-kth-factor-of-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
