@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0509-fibonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/1492-the-kth-factor-of-n) |
 ## Binary Search
@@ -47,8 +48,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0014-longest-common-prefix) |
+| [0412-fizz-buzz](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
