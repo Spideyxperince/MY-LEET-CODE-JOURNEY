@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
