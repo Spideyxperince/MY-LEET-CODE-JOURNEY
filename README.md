@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0074-search-a-2d-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0412-fizz-buzz) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
