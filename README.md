@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1480-running-sum-of-1d-array](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
 |  |
 | ------- |
