@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0876-middle-of-the-linked-list](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Spideyxperince/MY-LEET-CODE-JOURNEY/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
